@@ -6,7 +6,7 @@ export default function App() {
 	return (
 		<div>
 			{/* <Editor /> */}
-			<h1> NEW TEST</h1>
+			<h1> OMG PLEASE WORK</h1>
 			<Editor2/>
 		</div>
 	)
